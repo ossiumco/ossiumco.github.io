@@ -1,0 +1,95 @@
+/*********************
+COLORS
+Need help w/ choosing your colors? Try this site out:
+http://0to255.com/
+*********************/
+
+$black-5: #f5f5f5;
+$black-10: #ededed;
+$black-15: #ccc;
+$black-50: #999;
+$black-75: #666;
+$black-90: #222;
+$black-95: #111;
+
+$light-gray:    $black-10;
+$med-gray:      $black-50;
+$dark-gray:     $black-75;
+$light-black:   $black-90;
+
+
+
+$yellow:            #ebe16f;
+$red:               #fbe3e4;
+$green:             #e6efc2;
+$blue:              #d5edf8;
+$pink:              #f01d4f;
+$black:             #000;
+$white:             #fff;
+
+
+
+/* OSSIUM COLORS */
+$red:               #EF4023;
+$trans-red:         rgba(239,64,35,0.9);
+$dark-red:          #C5351B;
+$warm-gray:         #605355;
+
+$light-green:   #B2D234;
+$green: #8CA828;
+
+$light-mint: #68C295;
+$mint: #4C9472;
+
+$light-teal: #005864;
+$teal: #00444E;
+
+$light-purple: #5F217E;
+$purple: #4C1065;
+
+$light-orange: #F9A01B;
+$orange: #F05A22;
+
+$light-navy: #14387E;
+$navy: #021F58;
+
+
+$selection-color: $blue;
+$selection-color-type: $white;
+
+$link: $blue;
+$link-hover: darken($link, 8%);
+$highlight: $pink;  //Pink
+
+/*********************
+TYPOGRAPHY
+*********************/
+
+$sans:        "neutra_textbook_alt";
+$light:        "neutra_textlight_alt";
+$serif:             "OssiumSlab";
+$mono:              "Courier New", Courier, mono;
+
+/*  To embed fonts, use this syntax
+    and place the fonts inside the
+    fonts folder. For more information
+    on embedding fonts, go to:
+    http://www.fontsquirrel.com/
+    Be sure to remove the comment brackets.
+*/
+
+/*  @font-face {
+        font-family: 'Font Name';
+        src: url('fonts/font-name.eot');
+        src: url('fonts/font-name.eot?#iefix') format('embedded-opentype'),
+             url('fonts/font-name.woff') format('woff'),
+             url('fonts/font-name.ttf') format('truetype'),
+             url('fonts/font-name.svg#font-name') format('svg');
+        font-weight: normal;
+        font-style: normal;
+    }
+*/
+
+// !-- Paths ------------------------------------
+
+$svg-path: "img/";

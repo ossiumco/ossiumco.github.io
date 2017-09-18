@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'AtlasGroteskBold';
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    src: url('/fonts/AtlasGrotesk-Bold-Web.eot');
+    src: url('/fonts/AtlasGrotesk-Bold-Web.eot?#iefix') format("embedded-opentype"), url('/fonts/AtlasGrotesk-Bold-Web.woff?v153d02f4480') format("woff")
+}
+
+@font-face {
+    font-family: 'AtlasGroteskRegular';
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    src: url('/fonts/AtlasGrotesk-Regular-Web.woff?v153d02f4480') format("woff"), url('/fonts/AtlasGrotesk-Regular-Web.ttf?v153d02f4480') format("truetype")
+}
+
+@font-face {
+    font-family: 'OssiumSlab';
+    src: url('/fonts/Superclarendon-Bold.otf');
+}
+
+
+@font-face {
+    font-family: 'neutra_textlight_alt';
+    src: url('/fonts/neutratext-lightalt-webfont.eot');
+    src: url('/fonts/neutratext-lightalt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/neutratext-lightalt-webfont.woff2') format('woff2'),
+         url('/fonts/neutratext-lightalt-webfont.woff') format('woff'),
+         url('/fonts/neutratext-lightalt-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'neutra_textbook_alt';
+    src: url('/fonts/neutratext-bookalt-webfont.eot');
+    src: url('/fonts/neutratext-bookalt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/neutratext-bookalt-webfont.woff2') format('woff2'),
+         url('/fonts/neutratext-bookalt-webfont.woff') format('woff'),
+         url('/fonts/neutratext-bookalt-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
